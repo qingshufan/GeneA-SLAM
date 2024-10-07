@@ -9,11 +9,11 @@ The relevant data was collected using the Orbbec Astra depth camera (which has b
 1. **Concatenate the split files:**:
    If you have the split parts of the sculpture.tar.gz file, you can concatenate them back into a single file using the following command:
    ```bash
-   cat ./dataset/sculpture.part.* > ./dataset/sculpture.tar.gz
+   cat ./dataset/sculpture.oni.part.* > ./dataset/sculpture.oni.tar.gz
    ```
 1. **Decompress the ONI file**:
    ```bash
-   tar -xzf ./dataset/sculpture.tar.gz
+   tar -xzf ./dataset/sculpture.oni.tar.gz
    ```
    This command will extract the contents of `sculpture.tar.gz`, which should include the `sculpture.oni` file.
 
