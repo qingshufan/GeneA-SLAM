@@ -17,7 +17,7 @@
 
 </div>
 
-This study proposes a genetic algorithm-based feature point resampling module to address uneven feature distribution in SLAM. Integrated with [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2), GeneA-SLAM optimizes APE/RPE by up to 19.73%/50.10% on TUM datasets with lower runtime, and succeeds in real-scene mapping.
+This study proposes a genetic algorithm-based feature point resampling module to address uneven feature distribution in SLAM. Integrated with [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2), GeneA-SLAM optimizes RMSE of APE/RPE by up to 19.73%/50.10% on TUM datasets with lower runtime, and succeeds in real-scene mapping.
 
 ## News
 - **2025-01-22:** Accept to ICAIRC 2024!
