@@ -44,6 +44,13 @@ k3 = 1.579108437584564
 ## Prerequisites
 GeneA-SLAM is developed based on ORB-SLAM2. Tested on Ubuntu 18.04; compatible with other platforms. High-performance hardware is recommended for real-time stability. Below are the core dependencies (largely inherited from ORB-SLAM2 with minor optimizations):
 
+### PCL (Point Cloud Library)
+For 3D point cloud processing, Install via package manager:
+```
+sudo apt-get install libpcl-dev
+```
+Or build from source: [Install Guide](https://github.com/PointCloudLibrary/pcl)  
+
 ### C++11 or C++0x Compiler
 Requires a C++11-compatible compiler (for threading/chrono features).
 
