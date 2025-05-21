@@ -113,7 +113,7 @@ If you find this project useful, please consider citing:
       title={GeneA-SLAM: Enhancing SLAM with Genetic Algorithm-Based Feature Points Re-sampling}, 
       url={http://dx.doi.org/10.1109/icairc64177.2024.10900093}, 
       DOI={10.1109/icairc64177.2024.10900093}, 
-        booktitle={2024 4th International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC)}, 
+      booktitle={2024 4th International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC)}, 
       publisher={IEEE}, 
       author={Qing, Shufan and Li, Anzhen and Liu, Jiacheng and Gao, Yang and Feng, Mingchen and Nan, Fengtao and Hu, Guoliang and Wu, Jinqiao and Fan, Yingchun}, 
       year={2024}, 
